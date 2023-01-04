@@ -9,6 +9,9 @@ module.exports = {
       fontFamily: {
         'sans': ["Inter", "sans-serif"],
         'title': ["Montserrat", "sans-serif"],
+      },
+      colors: {
+        'primaryBlack': '#222223',
       }
     },
   },
