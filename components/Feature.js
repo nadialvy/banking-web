@@ -1,6 +1,6 @@
 export default function Feature(){
     return(
-        <div className="px-6 pb-20">
+        <div className="px-6 pb-16">
             <div className="flex flex-wrap mt-20 ">
                 <div className="md:w-1/2">
                     <img src="feature.png" className="w-full"></img>

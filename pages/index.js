@@ -3,6 +3,7 @@ import Header from '../components/Header'
 import SubHeader from '../components/SubHeader'
 import Testimonial from '../components/Testimonial'
 import Feature from '../components/Feature'
+import NewsLetter from '../components/NewsLetter'
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <GoalsSection />
       <Testimonial />
       <Feature />
+      <NewsLetter />
     </>
   )
 }
