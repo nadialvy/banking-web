@@ -3,7 +3,7 @@ export default function Testimonial(){
         <>
             <div className="pt-20 pb-10">
                 <h1 className="text-center font-bold text-4xl md:text-7xl font-BaiJamjuree">1000+ Customer</h1>
-                <p className="text-center text-gray-500 mt-8 md:px-96">Analyze any Business or Creator account—including your competitors—to find the imagery, visuals, and captions that drive audience engagement. Get social calendars planned faster and spend less time testing content strategies.</p>
+                <p className="text-center text-gray-500 mt-8 px-4 md:px-48 lg:px-78">Analyze any Business or Creator account—including your competitors—to find the imagery, visuals, and captions that drive audience engagement. Get social calendars planned faster and spend less time testing content strategies.</p>
             </div>
             <div className="tableCustom md:grid-cols-4 sm:grid-cols-2 mb-12 border-t md:border-b mx-4 md:mx-32">
                 <div className="px-4 py-10 border-r border-b md:border-b-0">

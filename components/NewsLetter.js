@@ -4,7 +4,7 @@ export default function NewsLetter(){
             <div className="flex">
                 <div className="w-1/2">
                     <p className="font-bold text-gray-700 text-sm mb-2">Subscribe to get updated news</p>
-                    <img src="play text.svg" className=""></img>
+                    <img src="play text.svg"></img>
                 </div>
                 <span className="border border-gray-500 mx-8"></span>
                 <div className="w-1/2">

@@ -22,8 +22,19 @@
     grid-template-columns: repeat(4, 1fr);
 }
 
+@media (min-width: 320px) and (max-width: 480px){
+    .text-element::before{
+        background-size: 40%;
+        background-position: 0px 35px;
+    }
+}
+
 @media (max-width: 768px) {
     .tableCustom {
         grid-template-columns: repeat(2, 1fr);
     }
+    /* .text-element::before{
+        background-size: 20%;
+        background-position: 380px 15px;
+    } */
 }
