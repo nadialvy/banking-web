@@ -5,9 +5,9 @@ export default function SubHeader(){
     return(
         <div className="flex flex-wrap">
             <CardIconSubHeader />
-            <CardSubHeader />
-            <CardSubHeader />
-            <CardSubHeader />
+            <CardSubHeader title='1.5% Cashback'/>
+            <CardSubHeader title='30-days terms'/>
+            <CardSubHeader title='Save Moneys'/>
         </div>
     );
 }

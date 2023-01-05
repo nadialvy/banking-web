@@ -12,6 +12,7 @@ module.exports = {
       },
       colors: {
         'primaryBlack': '#222223',
+        'lightBlue': '#52C0FF',
       }
     },
   },
