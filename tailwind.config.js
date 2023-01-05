@@ -9,10 +9,11 @@ module.exports = {
       fontFamily: {
         'sans': ["Inter", "sans-serif"],
         'title': ["Montserrat", "sans-serif"],
+        'BaiJamjuree': ["Bai Jamjuree", "sans-serif"],
       },
       colors: {
         'primaryBlack': '#222223',
-        'lightBlue': '#52C0FF',
+        'lightBlue': '#CFEDFF',
       }
     },
   },
