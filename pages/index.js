@@ -4,6 +4,7 @@ import SubHeader from '../components/SubHeader'
 import Testimonial from '../components/Testimonial'
 import Feature from '../components/Feature'
 import NewsLetter from '../components/NewsLetter'
+import Footer from '../components/Footer'
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <Testimonial />
       <Feature />
       <NewsLetter />
+      <Footer />
     </>
   )
 }
