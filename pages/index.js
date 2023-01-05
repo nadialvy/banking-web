@@ -1,6 +1,7 @@
 import GoalsSection from '../components/GoalsSection'
 import Header from '../components/Header'
 import SubHeader from '../components/SubHeader'
+import Testimonial from '../components/Testimonial'
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
         <SubHeader />
       </div>
       <GoalsSection />
+      <Testimonial />
     </>
   )
 }

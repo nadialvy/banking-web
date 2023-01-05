@@ -15,4 +15,15 @@
     background-size: 40%;
     background-position: 0px 35px;
     background-repeat: no-repeat;
-  }
+}
+
+.tableCustom {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 768px) {
+    .tableCustom {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
