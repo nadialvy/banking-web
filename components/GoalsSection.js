@@ -1,6 +1,9 @@
 export default function GoalsSection(){
     return(
         <>
+            <div className="flex justify-center items-center">
+                <img src="ellipseGoalsSection.png" className="w-12 absolute"></img>
+            </div>
             <div className="bg-lightBlue px-6 py-16 md:py-32 md:px-52 flex flex-wrap">
                 <div className="md:w-6/12 md:pl-24">
                     <h1 className="text-xl pr-10 mb-4 md:mb-0 font-BaiJamjuree">We Building Social uniqueness</h1>
