@@ -1,6 +1,6 @@
 export default function Footer(){
     return(
-        <div className="mx-auto px-6 pt-24">
+        <div className="mx-auto px-6 pt-24 pb-4">
             <div className="flex justify-between">
                 <div className="text-xs font-semibold flex flex-wrap justify-start">
                     <p className="text-gray-500 tracking-wider my-2 mr-4">ABOUT</p>

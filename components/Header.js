@@ -5,7 +5,7 @@ export default function Header(){
     return(
         <>
             <Navbar />
-            <div className="flex flex-wrap items-center justify-start">
+            <div className="flex flex-wrap items-center mt-10 justify-start">
                 <div className="md:w-1/2">
                     <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold font-BaiJamjuree text-primaryBlack text-element">Banking more
                     smart</h1>

@@ -8,7 +8,7 @@ export default function Navbar(){
 
     return(
         <>
-            <div className="bg-customWhite flex md:items-center md:justify-between pb-8 md:px-40 px-2">
+            <div className="bg-customWhite flex md:items-center md:justify-between pb-2 py-4 md:px-40 px-8 fixed top-0 left-0 w-full shadow-lg rounded-lg z-10">
                 <di className="hidden md:block">
                     <Nav dir="horizontal" />
                 </di>
